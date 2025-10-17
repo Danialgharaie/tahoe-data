@@ -1,0 +1,194 @@
+13982876
+  -OEChem-10172515072D
+
+ 36 37  0     0  0  0  0  0  0999 V2000
+    2.7764    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.4185    5.6378    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4185    4.0283    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0968    4.3331    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2307    2.8331    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1078    6.5883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1293    6.7945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3647    5.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2307    5.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3647    4.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8349    4.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8186    7.7450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4615    6.0502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0968    5.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2307    3.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2147    6.8746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0068    5.8399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1127    7.4023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0148    6.8815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7216    6.6757    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1284    7.2080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5434    7.2560    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2149    4.8331    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4080    7.9377    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6260    8.3344    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2293    7.5524    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    6.4643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0474    5.5888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9229    5.6362    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6742    7.1783    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5401    5.5237    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1103    8.0223    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5529    7.1894    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7677    2.5231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6938    2.5231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7764    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 36  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 34  1  0  0  0  0
+  5 35  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+13982876
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+294
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzgAAEAAAAAAAAAAAAAAAAAWAAAAA8QAAAAAAAAFix/gAAHAAQAAAADQjBHgQ38PdMEACgAyZjZACCgC0xEqAJ2CA4dJiIaOLA2dGUJAhogALIyCcQgIAOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-isobutylimidazo[4,5-c]quinolin-4-amine;hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(2-methylpropyl)-4-imidazo[4,5-c]quinolinamine;hydrochloride
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-(2-methylpropyl)imidazo[4,5-c]quinolin-4-amine;hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+1-(2-methylpropyl)imidazo[4,5-c]quinolin-4-amine;hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(2-methylpropyl)imidazo[4,5-c]quinolin-4-amine;hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1-isobutylimidazo[4,5-c]quinolin-4-yl)amine;hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H16N4.ClH/c1-9(2)7-18-8-16-12-13(18)10-5-3-4-6-11(10)17-14(12)15;/h3-6,8-9H,7H2,1-2H3,(H2,15,17);1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RGKLRAHQVIHCCH-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+276.1141743
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17ClN4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+276.76
+
+> <PUBCHEM_SMILES>
+CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N.Cl
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+56.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+276.1141743
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+14  17  8
+16  18  8
+17  19  8
+18  19  8
+2  11  8
+2  8  8
+3  10  8
+3  11  8
+4  14  8
+4  15  8
+8  10  8
+8  9  8
+9  14  8
+9  16  8
+
+$$$$

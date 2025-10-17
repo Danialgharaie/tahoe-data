@@ -1,0 +1,95 @@
+Molecular Clustering Results
+==================================================
+Total number of drugs: 377
+Total number of clusters: 18
+
+Cluster 0:
+  Drug Count: 23
+  Most Common MOA: inhibitor/antagonist
+  Drugs: Adenosine, Clofarabine, Dapagliflozin, Cytarabine, 5-Azacytidine, Cytarabine hydrochloride, Brivudine, Arbutin, Trifluridine, Entecavir monohydrate...
+
+Cluster 1:
+  Drug Count: 21
+  Most Common MOA: unclear
+  Drugs: Estrone sulfate potassium, Dihydroartemisinin, Artesunate, Quinestrol, Digitoxin, Drospirenone, Triamcinolone, Eplerenone, Ouabain Octahydrate, Abiraterone acetate...
+
+Cluster 2:
+  Drug Count: 51
+  Most Common MOA: inhibitor/antagonist
+  Drugs: Tirabrutinib, Cobimetinib, Piroxicam, 4EGI-1, Adagrasib, DT-061, AZD2858, Levobupivacaine hydrochloride, Filgotinib, Tofacitinib citrate...
+
+Cluster 3:
+  Drug Count: 12
+  Most Common MOA: Unknown
+  Drugs: R-Verapamil hydrochloride, Isocorydine, Homoharringtonine, Berberine chloride hydrate, Sinomenine, Berbamine dihydrochloride, Palmatine chloride, Harringtonine, Ivabradine hydrochloride, Verapamil...
+
+Cluster 4:
+  Drug Count: 11
+  Most Common MOA: Unknown
+  Drugs: Ivermectin, Epirubicin hydrochloride, Demeclocycline, Erythromycin, Doxycycline monohydrate, Azithromycin hydrate, Tetracycline hydrochloride, Plicamycin, Idarubicin hydrochloride, Doxorubicin hydrochloride...
+
+Cluster 5:
+  Drug Count: 8
+  Most Common MOA: inhibitor/antagonist
+  Drugs: Neratinib maleate, Lapatinib ditosylate, Gefitinib, Vandetanib, Afatinib, Erlotinib, Neratinib, Simotinib
+
+Cluster 6:
+  Drug Count: 19
+  Most Common MOA: inhibitor/antagonist
+  Drugs: DTP3, Belumosudil mesylate, Goserelin acetate, Bestatin, Saquinavir, Atazanavir sulfate, Daptomycin, Bestatin hydrochloride, Pemetrexed, Bortezomib...
+
+Cluster 7:
+  Drug Count: 6
+  Most Common MOA: inhibitor/antagonist
+  Drugs: NG25, Selinexor, Flumatinib mesylate, Ponatinib, NVP-BHG712, Radotinib
+
+Cluster 8:
+  Drug Count: 37
+  Most Common MOA: inhibitor/antagonist
+  Drugs: LJI308, Temuterkib, Fostamatinib disodium hexahydrate, Ribociclib, Imiquimod maleate, Quinidine 15 dihydroquinidine, Dinaciclib, Imiquimod hydrochloride, Volasertib, Pemigatinib...
+
+Cluster 9:
+  Drug Count: 3
+  Most Common MOA: inhibitor/antagonist
+  Drugs: Everolimus, Temsirolimus, Rapamycin
+
+Cluster 10:
+  Drug Count: 2
+  Most Common MOA: inhibitor/antagonist
+  Drugs: vincristine, Vinblastine sulfate
+
+Cluster 11:
+  Drug Count: 3
+  Most Common MOA: Unknown
+  Drugs: Irinotecan hydrochloride, Irinotecan, Topotecan hydrochloride
+
+Cluster 12:
+  Drug Count: 3
+  Most Common MOA: Unknown
+  Drugs: Almonertinib hydrochloride, Almonertinib mesylate, Osimertinib mesylate
+
+Cluster 13:
+  Drug Count: 3
+  Most Common MOA: Unknown
+  Drugs: S-Crizotinib, crizotinib, Crizotinib hydrochloride
+
+Cluster 14:
+  Drug Count: 115
+  Most Common MOA: inhibitor/antagonist
+  Drugs: XRK3F2, Vitamin K4, Terfenadine, Sodium Salicylate, Belinostat, Oxaliplatin, Aliskiren, Captopril, Econazole, Loperamide hydrochloride...
+
+Cluster 15:
+  Drug Count: 3
+  Most Common MOA: inhibitor/antagonist
+  Drugs: Docetaxel, Docetaxel Trihydrate, Paclitaxel
+
+Cluster 16:
+  Drug Count: 3
+  Most Common MOA: unclear
+  Drugs: 18β-Glycyrrhetinic acid, Diammonium Glycyrrhizinate, Glycyrrhizic acid
+
+Cluster 17:
+  Drug Count: 54
+  Most Common MOA: inhibitor/antagonist
+  Drugs: Nevirapine, Capmatinib, Encorafenib, Celecoxib, ERK5-IN-2, BI-78D3, Bosentan hydrate, Fedratinib hydrochloride hydrate, EX229, Vortioxetine...
+

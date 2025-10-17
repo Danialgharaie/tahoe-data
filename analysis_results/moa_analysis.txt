@@ -1,0 +1,8 @@
+Mechanism of Action Analysis
+==============================
+Total unique MOAs: 3
+
+Top mechanisms of action:
+inhibitor/antagonist: 212
+unclear: 56
+activator/agonist: 19

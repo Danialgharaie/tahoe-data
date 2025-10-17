@@ -1,0 +1,145 @@
+165411828
+  -OEChem-10172515042D
+
+ 21 18  0     0  0  0  0  0  0999 V2000
+    0.8368    1.9350    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.9819    1.4999    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.5092    1.9350    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6730    3.3833    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1158    0.0000    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    4.1822    1.4868    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    2.0911    6.3833    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6730    1.6323    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8368    2.9006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8876    1.0231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9819    2.5452    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5092    2.9006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1297    2.6421    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.9818    0.4999    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2163    1.2279    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6730    4.3833    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9571    6.8833    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.2251    6.8833    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4941    6.5733    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6881    6.5733    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 17  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  CHG  8   5   2   6   2   7   2  14  -1  15  -1  16  -1  17  -1  18  -1
+M  CHG  1  19  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+165411828
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+188
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+12
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAPAwAACAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.1<SUP>3,7</SUP>]decane;dihydroxide
+
+> <PUBCHEM_IUPAC_NAME>
+trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+trimagnesium;1,3,5,7-tetrakis(oxidanidyl)-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/3Mg.O10Si4.2H2O/c;;;1-11-5-12(2)8-13(3,6-11)10-14(4,7-11)9-12;;/h;;;;2*1H2/q3*+2;-4;;/p-2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QLQXSZZVUVMFHZ-UHFFFAOYSA-L
+
+> <PUBCHEM_EXACT_MASS>
+377.8174567
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+H2Mg3O12Si4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+379.27
+
+> <PUBCHEM_SMILES>
+[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+150
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+377.8174567
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+6
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

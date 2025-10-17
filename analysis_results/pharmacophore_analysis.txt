@@ -1,0 +1,47 @@
+Pharmacophore and Structural Feature Analysis
+==================================================
+
+Most common ring systems:
+Rings_4: 88
+Rings_3: 72
+Rings_5: 64
+Rings_2: 58
+Rings_1: 43
+Rings_6: 18
+Rings_7: 11
+Rings_0: 11
+Rings_8: 9
+Rings_9: 3
+
+Most common atom types:
+Carbon: 8232
+Oxygen: 1696
+Nitrogen: 1195
+Fluorine: 197
+Chlorine: 118
+Sulfur: 112
+Bromine: 11
+Iodine: 9
+Phosphorus: 6
+
+Most common functional groups/pharmacophores:
+Carbonyl: 559
+Ether: 450
+Hydroxyl: 440
+Amine: 319
+Fluorinated: 197
+Chlorinated: 118
+Sulfur_containing: 112
+H_donors_1: 111
+Aromatic_Rings_3: 102
+Aromatic_Rings_2: 88
+H_donors_2: 84
+Aromatic_Rings_1: 67
+H_donors_3: 51
+H_acceptors_6: 51
+Aromatic_Rings_4: 49
+H_acceptors_7: 45
+H_acceptors_8: 40
+H_acceptors_5: 39
+H_donors_4: 37
+H_acceptors_4: 36

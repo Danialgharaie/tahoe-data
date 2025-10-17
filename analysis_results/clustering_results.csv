@@ -1,0 +1,378 @@
+Drug_Name,Cluster_ID,MOA_Broad,MOA_Fine,Mol_MW,Mol_LogP,Mol_RotatableBonds,Mol_HDonors,Mol_HAcceptors,Mol_TPSA
+Nevirapine,17,inhibitor/antagonist,unclear,266.304,2.6512200000000004,1,1,4,58.120000000000005
+Tirabrutinib,2,inhibitor/antagonist,Other TK inhibitor,454.4900000000001,2.753400000000002,4,1,8,108.27000000000001
+XRK3F2,14,inhibitor/antagonist,unclear,435.8980000000002,4.626500000000004,10,2,4,50.72
+Vitamin K4,14,unclear,unclear,258.27299999999997,2.998820000000001,2,0,4,52.6
+Terfenadine,14,inhibitor/antagonist,unclear,471.6850000000002,6.445800000000007,8,2,3,43.7
+DTP3,6,inhibitor/antagonist,unclear,525.6100000000004,-0.8093999999999935,14,7,6,215.02000000000004
+Cobimetinib,2,inhibitor/antagonist,MEK inhibitor,531.3160000000005,3.781100000000003,4,3,4,64.6
+Belumosudil mesylate,6,Unknown,Unknown,548.6250000000003,4.324100000000003,7,4,8,159.19
+Piroxicam,2,inhibitor/antagonist,Cyclooxygenase inhibitor,331.353,1.5809999999999997,2,2,5,99.6
+4EGI-1,2,inhibitor/antagonist,Protein synthesis inhibitor,451.2910000000002,5.120300000000003,7,2,7,117.72000000000001
+Goserelin acetate,6,Unknown,Unknown,1329.4849999999983,-3.0148000000000144,31,18,17,533.1899999999996
+Neratinib maleate,5,Unknown,Unknown,673.1260000000002,5.644280000000006,13,4,10,187.0
+Lapatinib ditosylate,5,inhibitor/antagonist,EGFR/ERBB inhibitor,943.4939999999999,7.797840000000009,13,4,12,246.58999999999997
+Sodium Salicylate,14,inhibitor/antagonist,Cyclooxygenase inhibitor,160.10399999999998,-3.2402999999999995,1,1,3,60.36
+vincristine,10,inhibitor/antagonist,Microtubule inhibitor,923.0509999999994,2.864700000000007,8,5,14,245.76999999999998
+LJI308,8,inhibitor/antagonist,Other MAPK inhibitor,368.3830000000001,4.236000000000003,3,1,4,45.59
+Almonertinib hydrochloride,12,Unknown,Unknown,562.1180000000003,5.729500000000006,11,2,8,87.55
+Belinostat,14,inhibitor/antagonist,HDAC inhibitor,318.35400000000004,2.0059999999999993,5,3,4,95.5
+Oxaliplatin,14,inhibitor/antagonist,DNA synthesis/repair inhibitor,397.28800000000024,1.5551,0,2,2,122.19999999999999
+Aliskiren,14,inhibitor/antagonist,unclear,551.7690000000003,3.2935000000000016,19,4,7,146.13000000000002
+Captopril,14,inhibitor/antagonist,unclear,217.28999999999996,0.6279000000000001,3,2,3,57.61
+Econazole,14,unclear,unclear,381.69000000000005,5.8014000000000046,6,0,3,27.05
+Capmatinib,17,inhibitor/antagonist,EGFR/ERBB inhibitor,412.42800000000017,3.429000000000002,4,1,6,85.07000000000001
+Adagrasib,2,inhibitor/antagonist,RAS inhibitor,604.1300000000005,4.732980000000005,7,0,8,88.83000000000001
+Ivermectin,4,unclear,unclear,875.106,5.601400000000007,8,3,14,170.06
+Loperamide hydrochloride,14,Unknown,Unknown,513.5090000000001,5.509800000000006,7,1,3,43.78
+Temuterkib,8,inhibitor/antagonist,Other MAPK inhibitor,453.57200000000034,2.7053000000000003,6,1,9,88.41000000000001
+Panobinostat,14,inhibitor/antagonist,HDAC inhibitor,349.434,3.3272200000000023,7,4,3,77.14999999999999
+Pentoxifylline,14,inhibitor/antagonist,unclear,278.312,0.19299999999999917,5,0,7,78.89
+R-Verapamil hydrochloride,3,Unknown,Unknown,491.0720000000003,5.514880000000006,13,0,6,63.95
+Encorafenib,17,inhibitor/antagonist,RAF inhibitor,540.0210000000004,3.908400000000003,9,3,9,140.13
+Everolimus,9,inhibitor/antagonist,MTOR inhibitor,958.2399999999997,6.19720000000001,9,3,14,204.65999999999994
+Fostamatinib disodium hexahydrate,8,Unknown,Unknown,732.5199999999999,-9.109700000000021,10,2,14,381.37999999999994
+Adenosine,0,unclear,unclear,267.245,-1.979999999999998,2,4,9,139.54
+Ribociclib,8,inhibitor/antagonist,CDK inhibitor,434.5480000000003,2.7964,5,2,8,91.21000000000001
+Isocorydine,3,unclear,unclear,341.4070000000001,3.1701000000000024,3,1,5,51.160000000000004
+Celecoxib,17,inhibitor/antagonist,Cyclooxygenase inhibitor,381.37900000000013,3.5139200000000024,3,1,4,77.98
+Estrone sulfate potassium,1,Unknown,Unknown,388.5260000000002,-0.045199999999998575,2,0,5,83.5
+ERK5-IN-2,17,inhibitor/antagonist,Other MAPK inhibitor,388.19600000000014,3.7946000000000017,4,2,3,74.85
+BI-78D3,17,inhibitor/antagonist,Other MAPK inhibitor,379.3790000000002,1.8477,4,1,10,125.17
+DT-061,2,activator/agonist,unclear,520.5290000000003,5.089500000000004,5,2,6,88.1
+Imiquimod maleate,8,Unknown,Unknown,356.38200000000006,2.5345000000000004,4,3,6,131.33
+NG25,7,inhibitor/antagonist,Other MAPK inhibitor,537.5860000000004,6.072220000000005,7,2,5,73.49000000000001
+Bosentan hydrate,17,Unknown,Unknown,569.6400000000003,3.3792000000000018,10,2,10,177.14999999999998
+S-Crizotinib,13,Unknown,Unknown,450.3450000000002,5.037700000000004,5,2,6,77.99
+Fedratinib hydrochloride hydrate,17,Unknown,Unknown,615.6280000000004,4.842520000000003,10,3,8,139.98000000000002
+Homoharringtonine,3,inhibitor/antagonist,Protein synthesis inhibitor,545.6290000000005,2.5807,9,2,10,123.99
+EX229,17,activator/agonist,unclear,431.87900000000025,6.173920000000003,4,2,4,80.14
+Vortioxetine,17,unclear,unclear,298.45500000000004,3.8642400000000032,3,1,3,15.27
+18β-Glycyrrhetinic acid,16,unclear,unclear,470.6940000000003,6.412600000000007,1,2,3,74.6
+Docetaxel,15,inhibitor/antagonist,Microtubule inhibitor,807.8900000000001,3.259600000000006,8,5,14,224.44999999999996
+Fluvoxamine maleate,14,Unknown,Unknown,434.4110000000002,2.9133000000000013,11,3,6,131.44
+Gefitinib,5,inhibitor/antagonist,EGFR/ERBB inhibitor,446.9100000000002,4.275600000000003,8,1,7,68.74000000000001
+Clofarabine,0,inhibitor/antagonist,DNA synthesis/repair inhibitor,303.68100000000004,-0.3493999999999995,2,3,8,119.30999999999999
+Talc,14,unclear,unclear,379.26300000000015,-8.1856,0,0,12,207.62
+AZD2858,2,inhibitor/antagonist,GSK3 inhibitor,453.5280000000002,1.309200000000001,5,2,8,134.41000000000003
+Relugolix,14,inhibitor/antagonist,unclear,623.6420000000004,3.7505000000000033,9,2,11,132.60999999999999
+Berberine chloride hydrate,3,Unknown,Unknown,389.83500000000015,-0.7243999999999982,2,0,4,72.3
+Diammonium Glycyrrhizinate,16,unclear,unclear,857.0039999999999,2.5696000000000074,7,10,15,337.03999999999996
+Bestatin,6,inhibitor/antagonist,unclear,308.378,0.5328000000000006,8,4,4,112.64999999999999
+OTS514,14,inhibitor/antagonist,Other MAPK inhibitor,364.47000000000014,4.4860200000000034,3,3,4,79.11
+Quinidine 15 dihydroquinidine,8,Unknown,Unknown,324.424,3.1732000000000022,4,1,4,45.59
+Benztropine mesylate,14,Unknown,Unknown,403.54400000000004,3.921800000000003,4,1,4,66.84
+Dapagliflozin,0,inhibitor/antagonist,Glucose transporter inhibitor,408.8780000000002,1.8443999999999996,6,4,6,99.38000000000001
+Cytarabine,0,inhibitor/antagonist,DNA synthesis/repair inhibitor,243.21900000000002,-2.562999999999998,2,4,8,130.83
+Dinaciclib,8,inhibitor/antagonist,CDK inhibitor,396.4950000000001,2.2784999999999993,7,2,7,92.63
+Sinomenine,3,unclear,unclear,329.396,2.0180999999999996,2,1,5,59.00000000000001
+Levobupivacaine hydrochloride,2,Unknown,Unknown,324.89599999999996,4.318340000000004,5,1,2,32.34
+CP21R7,17,inhibitor/antagonist,GSK3 inhibitor,317.348,2.3277,2,2,4,77.12
+L-Eflornithine monohydrochloride,14,Unknown,Unknown,218.63099999999994,0.19430000000000014,5,3,3,89.33999999999999
+Imiquimod hydrochloride,8,Unknown,Unknown,276.771,3.2445000000000013,2,1,4,56.730000000000004
+Filgotinib,2,inhibitor/antagonist,JAK/STAT inhibitor,425.5140000000002,1.9751999999999996,5,1,7,96.67
+Tofacitinib citrate,2,Unknown,Unknown,504.5000000000005,0.29628000000000054,8,5,9,221.04
+Epirubicin hydrochloride,4,Unknown,Unknown,579.9860000000004,0.4231000000000007,5,6,12,206.07
+Thymol,14,activator/agonist,unclear,150.22099999999998,2.824020000000001,1,1,1,20.23
+olaparib,17,unclear,DNA synthesis/repair inhibitor,434.4710000000002,2.3474000000000004,4,1,4,86.37
+Darolutamide,2,inhibitor/antagonist,Androgen receptor antagonist,398.85400000000016,2.6700800000000005,6,3,6,119.62
+Dihydroartemisinin,1,unclear,unclear,284.352,2.1867,0,1,5,57.150000000000006
+Diphenhydramine,14,inhibitor/antagonist,unclear,255.36100000000002,3.3542000000000023,6,0,2,12.47
+Volasertib,8,inhibitor/antagonist,unclear,618.8270000000003,4.267200000000003,10,2,9,106.17
+Trametinib DMSO_TF solvate,2,Unknown,Unknown,615.4030000000002,3.940120000000003,5,2,8,107.13000000000002
+Peretinoin,14,unclear,Retinoic receptor agonist,302.4580000000001,5.992700000000006,9,1,1,37.3
+Voriconazole,14,inhibitor/antagonist,unclear,349.31600000000003,2.1769,5,1,6,76.72
+Artesunate,1,inhibitor/antagonist,JAK/STAT inhibitor,384.42500000000024,2.6024000000000003,4,1,7,100.52000000000001
+Pexidartinib hydrochloride,17,Unknown,Unknown,454.28300000000024,5.6498000000000035,5,2,4,66.49000000000001
+Naproxen,14,inhibitor/antagonist,Cyclooxygenase inhibitor,230.263,3.036500000000002,3,1,2,46.53
+Mebendazole,14,inhibitor/antagonist,Microtubule inhibitor,295.29800000000006,2.972200000000001,3,2,4,84.08000000000001
+Berbamine dihydrochloride,3,Unknown,Unknown,681.6570000000004,7.703000000000008,3,1,8,72.86
+Sulfatinib,17,inhibitor/antagonist,Multi-TK inhibitor,480.5940000000002,3.7832200000000036,10,3,7,112.24000000000001
+Pemigatinib,8,inhibitor/antagonist,Other TK inhibitor,487.50700000000046,3.6570000000000027,6,1,6,83.16000000000001
+Quinestrol,1,unclear,unclear,364.5290000000001,5.228400000000005,2,1,2,29.46
+Digitoxin,1,unclear,unclear,764.9500000000003,3.2473000000000063,7,5,13,182.82999999999998
+Mitoxantrone dihydrochloride,14,Unknown,Unknown,517.4100000000005,0.7043999999999997,12,8,10,163.18
+Saquinavir,6,inhibitor/antagonist,unclear,670.8550000000002,3.092400000000004,12,5,7,166.75
+L-Thyroxine sodium salt pentahydrate,14,Unknown,Unknown,888.9289999999996,-3.896899999999996,5,2,5,253.11
+Aprepitant,8,inhibitor/antagonist,unclear,534.4320000000004,4.952100000000004,6,2,5,83.24000000000001
+Demeclocycline,4,inhibitor/antagonist,unclear,464.8580000000003,0.10830000000000073,2,6,9,181.62
+Tolcapone,14,inhibitor/antagonist,unclear,273.244,2.54542,3,2,5,100.67
+Atazanavir sulfate,6,Unknown,Unknown,802.9480000000001,3.558800000000005,14,7,11,245.82
+Pimitespib,8,inhibitor/antagonist,unclear,454.5380000000002,3.791400000000003,6,1,8,109.44
+Apalutamide,2,inhibitor/antagonist,Androgen receptor antagonist,477.4430000000004,3.5315800000000017,3,1,5,89.33000000000001
+Vilanterol,14,activator/agonist,Adrenoceptor agonist,486.4360000000003,4.608100000000004,16,4,6,91.18
+5-Azacytidine,0,inhibitor/antagonist,DNA methyltransferase inhibitor,244.207,-3.1679999999999984,2,4,9,143.72000000000003
+Glycyrrhizic acid,16,inhibitor/antagonist,unclear,822.942,2.245600000000006,7,8,13,267.03999999999996
+Abemaciclib,8,inhibitor/antagonist,CDK inhibitor,506.6050000000003,4.936920000000004,7,1,8,75.0
+Ralimetinib dimesylate,17,inhibitor/antagonist,Other MAPK inhibitor,612.7500000000003,4.561300000000005,3,4,9,194.14999999999995
+Selinexor,7,inhibitor/antagonist,unclear,443.31100000000026,3.386700000000001,5,2,7,97.62
+Vandetanib,5,inhibitor/antagonist,Multi-TK inhibitor,475.3620000000003,5.004200000000004,6,1,6,59.510000000000005
+Mozavaptan,2,inhibitor/antagonist,unclear,427.5480000000002,5.290620000000005,4,1,3,52.650000000000006
+Cytarabine hydrochloride,0,Unknown,Unknown,279.68,-2.1411999999999987,2,4,8,130.83
+AZD-7648,8,inhibitor/antagonist,DNA synthesis/repair inhibitor,380.4120000000001,1.5762199999999995,3,1,10,104.16
+Aspirin,14,inhibitor/antagonist,Cyclooxygenase inhibitor,180.15899999999996,1.3101,2,1,3,63.6
+Temsirolimus,9,inhibitor/antagonist,MTOR inhibitor,1030.3029999999992,5.722400000000013,10,4,16,241.95999999999992
+Brivudine,0,unclear,unclear,333.13800000000015,-0.4571000000000003,3,3,6,104.54999999999998
+Nimesulide,17,inhibitor/antagonist,Cyclooxygenase inhibitor,308.315,2.7586000000000013,5,1,5,98.54
+Daptomycin,6,unclear,unclear,1620.6929999999984,-5.62180000000002,35,22,24,702.0199999999995
+Palmatine chloride,3,Unknown,Unknown,387.86300000000017,0.3888000000000007,4,0,4,40.800000000000004
+Retinoic acid,14,activator/agonist,Retinoic receptor agonist,300.44200000000006,5.602600000000005,5,1,1,37.3
+Entrectinib,17,inhibitor/antagonist,Other TK inhibitor,560.6490000000003,5.026900000000004,7,3,6,85.52
+Auranofin,14,inhibitor/antagonist,unclear,678.4909999999999,2.1418999999999997,8,0,10,114.43
+Brimonidine,17,activator/agonist,Adrenoceptor agonist,292.14,1.7633999999999999,1,2,5,62.2
+palbociclib,8,inhibitor/antagonist,CDK inhibitor,447.5430000000003,2.965820000000001,5,2,9,105.04
+Asciminib,2,inhibitor/antagonist,Other TK inhibitor,449.8450000000002,3.462900000000002,6,3,6,103.37
+Flumatinib mesylate,7,Unknown,Unknown,658.7070000000003,4.508120000000004,7,3,10,153.53999999999996
+Cinacalcet,14,activator/agonist,unclear,357.41900000000004,6.142000000000006,6,1,1,12.03
+Erdafitinib,8,inhibitor/antagonist,Other TK inhibitor,446.55500000000023,4.183600000000004,9,1,8,77.33
+Anethole trithione,14,unclear,unclear,240.374,4.214690000000002,2,0,4,9.23
+Cysteamine hydrochloride,14,Unknown,Unknown,113.61300000000001,0.2967000000000001,1,2,2,26.02
+Tadalafil,17,inhibitor/antagonist,unclear,389.4110000000001,2.2112999999999996,1,1,4,74.87
+Zileuton,14,inhibitor/antagonist,unclear,236.29600000000002,2.7322000000000006,2,2,3,66.56
+Ornidazole,14,unclear,unclear,219.628,0.6994199999999998,4,1,5,81.19
+Arbutin,0,inhibitor/antagonist,unclear,272.25300000000004,-1.4290999999999976,3,5,7,119.61000000000001
+Drospirenone,1,unclear,unclear,366.50100000000015,4.305900000000004,0,0,3,43.370000000000005
+Cloxacillin sodium,2,Unknown,Unknown,457.8710000000003,-1.781979999999995,4,1,7,115.57
+Docetaxel Trihydrate,15,Unknown,Unknown,861.935,0.7855000000000099,8,5,14,318.94999999999993
+Darinaparsin,14,unclear,unclear,411.31200000000035,-1.1515999999999964,11,5,6,158.82000000000002
+Ranolazine,14,inhibitor/antagonist,unclear,427.54500000000013,2.30804,9,2,6,74.27000000000001
+Phenylephrine hydrochloride,14,Unknown,Unknown,203.669,1.0668000000000002,3,3,3,52.49
+Infigratinib,8,inhibitor/antagonist,Other TK inhibitor,560.4860000000003,5.354400000000005,8,2,8,95.09
+Bestatin hydrochloride,6,Unknown,Unknown,344.83900000000006,0.9545999999999999,8,4,4,112.64999999999999
+Allopurinol,17,inhibitor/antagonist,unclear,136.114,-0.35380000000000056,0,2,3,74.43
+Oleic acid,14,activator/agonist,unclear,282.46799999999996,6.1085000000000065,15,1,1,37.3
+Triamcinolone,1,unclear,Glucocorticoid receptor agonist,394.43900000000025,0.6204999999999994,2,4,6,115.06
+MK-8353,8,inhibitor/antagonist,Other MAPK inhibitor,691.8620000000003,5.269500000000006,10,2,10,134.16000000000003
+Hydroxyurea,14,inhibitor/antagonist,DNA synthesis/repair inhibitor,76.05499999999999,-0.9561000000000002,0,3,2,75.35
+Hydroxyfasudil,17,inhibitor/antagonist,unclear,307.37499999999994,0.5120999999999991,2,2,4,82.27000000000001
+Eplerenone,1,inhibitor/antagonist,unclear,414.49800000000033,3.124500000000002,1,0,6,82.19999999999999
+AT7519,17,inhibitor/antagonist,CDK inhibitor,382.25100000000015,2.4506000000000006,4,4,4,98.91000000000001
+TAK-733,2,inhibitor/antagonist,MEK inhibitor,504.23100000000034,1.0748,5,3,8,109.38000000000001
+Ponatinib,7,inhibitor/antagonist,Multi-TK inhibitor,532.5700000000003,4.456020000000004,4,1,6,65.77000000000001
+Ouabain Octahydrate,1,Unknown,Unknown,728.779,-8.112600000000013,4,8,12,458.59999999999997
+Roxadustat,14,inhibitor/antagonist,unclear,352.3460000000001,2.855520000000001,5,3,5,108.75000000000001
+Macitentan,17,inhibitor/antagonist,unclear,588.2820000000002,3.572700000000002,11,2,8,128.22000000000003
+Pemetrexed,6,inhibitor/antagonist,DNA synthesis/repair inhibitor,427.41700000000026,0.6664000000000017,9,6,6,191.26000000000002
+Meloxicam,2,inhibitor/antagonist,Cyclooxygenase inhibitor,351.4090000000001,1.95092,2,2,6,99.6
+Trifluridine,0,inhibitor/antagonist,DNA synthesis/repair inhibitor,296.2010000000001,-0.8039000000000001,2,3,6,104.54999999999998
+Harringtonine,3,unclear,Protein synthesis inhibitor,531.6020000000004,2.1906,8,2,10,123.99
+Irinotecan hydrochloride,11,Unknown,Unknown,623.1500000000004,4.512900000000004,4,1,9,114.2
+Ferulic acid,14,inhibitor/antagonist,Other TK inhibitor,194.18599999999998,1.4986000000000002,3,2,3,66.75999999999999
+Pentamidine isethionate,14,Unknown,Unknown,592.6930000000001,0.6158400000000035,14,8,10,267.40000000000003
+Pyridoxine,14,unclear,unclear,169.17999999999998,0.08021999999999996,2,3,4,73.58
+LY2090314,17,inhibitor/antagonist,GSK3 inhibitor,512.5450000000004,3.416800000000001,2,1,6,91.95
+Bortezomib,6,inhibitor/antagonist,Proteasome inhibitor,384.24500000000006,0.3605999999999998,9,4,6,124.44
+Gallic acid hydrate,14,Unknown,Unknown,188.135,-0.32310000000000005,1,4,4,129.49
+Entecavir monohydrate,0,Unknown,Unknown,295.29900000000004,-1.6524999999999987,2,4,7,161.55
+Methylthiouracil,17,unclear,unclear,142.183,0.7409099999999997,0,2,2,48.65
+Trimetrexate,17,inhibitor/antagonist,DNA synthesis/repair inhibitor,369.4250000000002,2.7405200000000027,6,3,8,117.53999999999999
+Fumaric acid,14,inhibitor/antagonist,unclear,116.07199999999997,-0.2882,2,2,2,74.6
+crizotinib,13,inhibitor/antagonist,Multi-TK inhibitor,450.3450000000002,5.037700000000004,5,2,6,77.99
+Ivabradine hydrochloride,3,Unknown,Unknown,505.05500000000046,3.7318000000000024,10,0,6,60.47000000000001
+Rimonabant,2,inhibitor/antagonist,unclear,463.7960000000002,5.938620000000005,4,1,4,50.160000000000004
+Penfluridol,14,inhibitor/antagonist,unclear,523.9730000000002,7.532700000000008,7,1,2,23.47
+ETC-206,8,inhibitor/antagonist,Protein synthesis inhibitor,408.46100000000007,4.012380000000003,3,0,5,70.63
+LB-100,14,inhibitor/antagonist,unclear,268.31299999999993,-0.3613999999999993,2,1,4,70.08
+BI-3406,8,inhibitor/antagonist,RAS inhibitor,462.47200000000026,4.888620000000005,6,2,7,91.52
+Adenine,17,unclear,unclear,135.13,-0.0648999999999999,0,2,4,80.48
+Rapamycin,9,inhibitor/antagonist,MTOR inhibitor,914.1869999999998,6.180600000000008,6,3,13,195.42999999999995
+Salicylic acid,14,inhibitor/antagonist,Cyclooxygenase inhibitor,138.12199999999996,1.0904,1,2,2,57.53
+Clopidogrel,14,inhibitor/antagonist,unclear,321.829,3.6739000000000024,3,0,4,29.54
+Decitabine,0,inhibitor/antagonist,DNA methyltransferase inhibitor,228.20800000000003,-2.138799999999998,2,3,8,123.49
+Lumateperone tosylate,2,Unknown,Unknown,565.7110000000004,5.158220000000005,6,1,6,81.15999999999998
+SBI-0640756,17,inhibitor/antagonist,Protein synthesis inhibitor,404.8280000000001,5.278700000000003,4,1,3,62.82
+Hesperidin,0,unclear,unclear,610.5650000000002,-1.1565999999999927,7,8,15,234.28999999999996
+Posaconazole,8,unclear,unclear,700.7910000000003,4.5732000000000035,12,1,12,115.7
+MK-3903,17,activator/agonist,unclear,454.9130000000002,7.349220000000006,5,2,3,75.21000000000001
+Rucaparib phosphate,17,Unknown,Unknown,421.36500000000024,2.0507,3,6,3,134.68
+Edoxaban tosylate monohydrate,2,Unknown,Unknown,738.2889999999999,1.706620000000003,6,4,10,222.50000000000006
+Abiraterone acetate,1,inhibitor/antagonist,unclear,391.5550000000001,5.9694000000000065,2,0,3,39.19
+Almonertinib mesylate,12,Unknown,Unknown,621.7640000000001,4.811700000000005,11,3,10,141.92
+Omeprazole sodium,17,Unknown,Unknown,367.40600000000006,-0.46715999999999913,5,0,5,75.41
+Rimonabant Hydrochloride,2,Unknown,Unknown,500.2570000000004,6.360420000000005,4,1,4,50.160000000000004
+5-Fluorouracil,17,inhibitor/antagonist,DNA synthesis/repair inhibitor,130.078,-0.7977000000000003,0,2,2,65.72
+Lucanthone,14,inhibitor/antagonist,unclear,340.492,4.4768200000000045,6,1,4,32.34
+Idoxuridine,0,unclear,DNA synthesis/repair inhibitor,354.1000000000002,-1.2181000000000004,2,3,6,104.54999999999998
+Chlorhexidine diacetate,2,Unknown,Unknown,625.5620000000004,3.518400000000005,9,8,4,252.18000000000004
+Fenofibrate,14,unclear,unclear,360.8370000000001,4.680000000000004,6,0,4,52.6
+Bentamapimod,8,inhibitor/antagonist,Other MAPK inhibitor,457.5590000000002,4.152980000000003,7,0,8,84.16
+Malotilate,14,inhibitor/antagonist,unclear,288.39,3.0524000000000013,4,0,6,52.6
+APTO-253,17,unclear,unclear,367.387,5.255120000000003,1,2,3,70.25
+Omeprazole,17,inhibitor/antagonist,unclear,345.4240000000001,2.8997400000000013,5,1,5,77.10000000000001
+Belumosudil,6,inhibitor/antagonist,unclear,452.5180000000002,4.820100000000004,7,3,6,104.82000000000001
+Paclitaxel,15,unclear,Microtubule inhibitor,853.9180000000002,3.735700000000006,10,4,14,221.29
+Dapagliflozin 2S-12-propanediol hydrate,0,Unknown,Unknown,502.9880000000004,0.37920000000000176,7,6,8,171.34
+Tolmetin,14,inhibitor/antagonist,Cyclooxygenase inhibitor,257.289,2.1916200000000003,4,1,3,59.3
+Alpelisib,2,inhibitor/antagonist,PI3K/AKT inhibitor,441.47900000000027,3.8350200000000028,4,2,5,101.21000000000001
+Trametinib,2,inhibitor/antagonist,MEK inhibitor,615.4030000000002,3.940120000000003,5,2,8,107.13000000000002
+BAY1125976,2,inhibitor/antagonist,PI3K/AKT inhibitor,383.4550000000001,3.5001000000000024,4,2,5,99.3
+Dexmedetomidine,17,activator/agonist,Adrenoceptor agonist,200.285,3.178340000000002,2,1,1,28.68
+Verapamil,3,inhibitor/antagonist,unclear,454.6110000000002,5.093080000000005,13,0,6,63.95
+Cepharanthine,3,inhibitor/antagonist,unclear,606.7190000000002,6.873900000000008,2,0,8,61.860000000000014
+Medroxyprogesterone acetate,1,unclear,unclear,386.53200000000015,4.655200000000004,2,0,4,60.440000000000005
+Fusidic acid,14,inhibitor/antagonist,unclear,516.7190000000004,5.666100000000006,5,3,5,104.06
+Allantoin,14,unclear,unclear,158.117,-2.1797999999999993,1,4,3,113.32
+Sulfisoxazole,17,inhibitor/antagonist,unclear,267.31,1.6744400000000002,3,2,5,98.22
+Pasireotide acetate,6,Unknown,Unknown,1107.2789999999995,3.4593999999999934,17,10,12,318.49999999999994
+Budesonide,1,activator/agonist,Glucocorticoid receptor agonist,430.5410000000003,2.716800000000001,4,2,6,93.06
+Lipoic acid,14,unclear,unclear,206.3319999999999,2.785100000000001,5,1,3,37.3
+Gemcitabine,0,inhibitor/antagonist,DNA synthesis/repair inhibitor,263.2,-1.2886000000000002,2,3,7,110.6
+Lopinavir,6,inhibitor/antagonist,unclear,628.8140000000003,4.328140000000006,15,4,5,120.0
+Folic acid,6,unclear,unclear,441.4040000000003,-0.04479999999999862,9,6,9,213.28
+Dimethyl fumarate,14,activator/agonist,unclear,144.12599999999998,-0.11139999999999994,2,0,4,52.6
+Bisoprolol hemifumarate,14,Unknown,Unknown,457.56400000000025,2.713800000000001,14,4,7,134.55
+Gallic acid,14,inhibitor/antagonist,Cyclooxygenase inhibitor,170.12,0.5015999999999999,1,4,4,97.99000000000001
+Erythromycin,4,inhibitor/antagonist,unclear,733.9369999999999,1.7856000000000096,7,5,14,193.91
+Menadione,17,unclear,unclear,172.183,2.0119,0,0,2,34.14
+Uridine,0,unclear,unclear,244.203,-2.851899999999998,2,4,7,124.78
+Esmolol hydrochloride,14,Unknown,Unknown,331.84000000000003,1.9516999999999995,9,2,5,67.78999999999999
+Artemether,1,unclear,unclear,298.379,2.8408000000000015,1,0,5,46.150000000000006
+Irinotecan,11,inhibitor/antagonist,DNA synthesis/repair inhibitor,586.6890000000004,4.0911000000000035,4,1,9,114.2
+Rosiglitazone,17,unclear,unclear,357.43500000000006,2.490900000000001,7,1,6,71.53
+Elimusertib hydrochloride,8,inhibitor/antagonist,unclear,375.4360000000001,2.645500000000001,3,1,7,84.75
+Methotrexate,6,inhibitor/antagonist,DNA synthesis/repair inhibitor,454.4470000000003,0.26840000000000086,9,5,10,210.53999999999996
+Carbidopa monohydrate,14,Unknown,Unknown,226.232,-0.05310000000000059,4,5,5,115.81
+HI-TOPK-032,2,inhibitor/antagonist,unclear,369.4090000000001,4.221180000000003,2,1,6,83.08000000000001
+Orlistat,14,inhibitor/antagonist,unclear,495.74500000000046,6.881900000000008,23,1,5,81.7
+Afatinib,5,inhibitor/antagonist,EGFR/ERBB inhibitor,485.9470000000003,4.3899000000000035,8,2,7,88.61
+Finasteride,1,inhibitor/antagonist,unclear,372.55300000000005,3.8145000000000024,1,2,2,58.2
+9-ING-41,17,inhibitor/antagonist,GSK3 inhibitor,404.35300000000024,3.3595000000000024,2,1,6,82.70000000000002
+Erlotinib,5,inhibitor/antagonist,EGFR/ERBB inhibitor,393.44300000000015,3.405100000000002,10,1,7,74.73
+Ligustrazine,14,unclear,unclear,136.19799999999998,1.71028,0,0,2,25.78
+Acetohexamide,14,activator/agonist,unclear,324.402,2.2098000000000004,4,2,4,92.34
+Tranilast,14,inhibitor/antagonist,unclear,327.3360000000001,3.0539000000000014,6,2,4,84.86000000000001
+Doxycycline monohydrate,4,Unknown,Unknown,462.4550000000003,-1.3288999999999969,2,6,9,213.12
+Fingolimod hydrochloride,14,Unknown,Unknown,343.939,3.6261000000000028,12,3,3,66.48
+Acetazolamide,14,inhibitor/antagonist,unclear,222.25099999999998,-0.8561000000000003,2,2,6,115.03999999999999
+Neratinib,5,inhibitor/antagonist,EGFR/ERBB inhibitor,557.0540000000004,5.932480000000005,11,2,8,112.39999999999999
+Methylprednisolone succinate,1,unclear,Glucocorticoid receptor agonist,474.5500000000004,2.2192999999999996,6,3,7,138.20000000000002
+Pyridoxine hydrochloride,14,Unknown,Unknown,205.64099999999996,0.5020200000000001,2,3,4,73.58
+NVP-BHG712,7,inhibitor/antagonist,unclear,503.4880000000003,5.748420000000004,5,2,7,97.62
+Bexarotene,14,activator/agonist,Retinoic receptor agonist,348.4860000000001,6.103720000000006,3,1,1,37.3
+Balsalazide sodium hydrate,14,Unknown,Unknown,437.3160000000002,-6.897800000000003,7,2,7,217.31
+IQ 1,14,unclear,unclear,362.43300000000016,2.966400000000002,5,2,5,96.91
+Thymopentin,6,unclear,unclear,679.7760000000001,-2.4008999999999965,22,11,10,327.66999999999996
+Ipatasertib,2,inhibitor/antagonist,PI3K/AKT inhibitor,458.00600000000026,3.101000000000001,6,2,6,81.59
+γ-Oryzanol,14,inhibitor/antagonist,DNA methyltransferase inhibitor,602.9000000000002,10.147399999999998,8,1,4,55.760000000000005
+Tucatinib,8,inhibitor/antagonist,EGFR/ERBB inhibitor,480.5320000000002,5.093520000000004,5,2,10,110.85000000000001
+Binimetinib,2,inhibitor/antagonist,MEK inhibitor,441.2320000000003,3.011300000000001,6,3,6,88.41
+Clonidine hydrochloride,17,Unknown,Unknown,266.55899999999997,2.7863000000000007,1,2,3,36.42
+Busulfan,14,unclear,DNA synthesis/repair inhibitor,246.30599999999993,-0.28100000000000014,7,0,6,86.74000000000001
+Proglumide,14,inhibitor/antagonist,unclear,334.416,2.298399999999999,10,2,3,86.71
+Pitavastatin Calcium,17,Unknown,Unknown,880.9980000000002,5.986000000000008,16,4,10,186.95999999999998
+Cilostazol,17,inhibitor/antagonist,unclear,369.46900000000005,3.4647000000000014,7,1,6,81.93
+Indacaterol maleate,14,Unknown,Unknown,508.57100000000037,2.8607000000000014,8,6,6,159.95
+ML264,14,inhibitor/antagonist,unclear,384.8850000000001,1.505,5,1,4,83.55
+Ciclopirox,14,unclear,unclear,207.273,2.441720000000001,1,1,3,42.23
+Capivasertib,2,inhibitor/antagonist,PI3K/AKT inhibitor,428.9240000000002,2.1488999999999994,6,4,6,120.16000000000001
+Bimatoprost,14,unclear,unclear,415.57400000000024,3.1469000000000014,12,4,4,89.78999999999999
+Sunitinib,14,inhibitor/antagonist,Multi-TK inhibitor,398.48200000000014,3.334940000000003,7,3,3,77.23
+Betamethasone dipropionate,1,activator/agonist,Glucocorticoid receptor agonist,504.5950000000005,3.8175000000000026,6,1,7,106.97
+Topotecan hydrochloride,11,Unknown,Unknown,457.9140000000003,2.2686,3,2,8,104.88999999999999
+Bendamustine,14,unclear,DNA synthesis/repair inhibitor,358.26900000000023,3.2646000000000015,9,1,4,58.36
+Megestrol,1,unclear,unclear,342.4790000000001,4.004500000000004,1,1,3,54.37
+Gemfibrozil,14,unclear,unclear,250.338,3.573240000000003,6,1,2,46.53
+Vismodegib,2,inhibitor/antagonist,Sonic inhibitor,421.3050000000002,4.7112000000000025,4,1,4,76.13
+Regorafenib,2,inhibitor/antagonist,Multi-TK inhibitor,482.8210000000003,5.688800000000003,5,3,4,92.35000000000001
+AZD1390,8,inhibitor/antagonist,unclear,477.5840000000003,4.925000000000004,7,0,7,65.18
+GSK1059615,17,inhibitor/antagonist,PI3K/AKT inhibitor,333.3720000000001,3.620700000000002,2,1,5,71.95
+Lactate calcium,14,Unknown,Unknown,145.191,-1.6276000000000002,1,1,3,60.36
+LY-2584702 tosylate salt,2,Unknown,Unknown,617.6290000000004,5.5370200000000045,4,2,8,129.89000000000001
+Altretamine,14,unclear,DNA synthesis/repair inhibitor,210.28499999999997,0.0696000000000001,3,0,6,48.39
+Torkinib,8,inhibitor/antagonist,MTOR inhibitor,308.345,2.843300000000001,2,3,6,105.63999999999999
+venetoclax,8,inhibitor/antagonist,unclear,868.457,8.659900000000004,13,3,11,172.03
+Pentagastrin,6,inhibitor/antagonist,unclear,767.906,1.520200000000005,20,8,9,250.91
+Methyl aminolevulinate hydrochloride,14,Unknown,Unknown,181.61899999999997,-0.11080000000000001,4,1,4,69.39
+Oxaprozin,14,inhibitor/antagonist,Cyclooxygenase inhibitor,293.32200000000006,4.025800000000002,5,1,3,63.330000000000005
+Pravastatin sodium,14,Unknown,Unknown,446.5160000000003,-1.8902999999999912,10,3,7,127.12
+PH-797804,17,inhibitor/antagonist,Other MAPK inhibitor,477.3050000000003,4.433640000000003,5,1,4,60.330000000000005
+Resveratrol,14,unclear,unclear,228.24699999999999,2.9738000000000007,2,3,3,60.69
+Futibatinib,8,inhibitor/antagonist,Other TK inhibitor,418.4570000000002,1.7849,4,1,8,108.39
+Azithromycin hydrate,4,Unknown,Unknown,785.0259999999997,0.25130000000001584,7,5,14,243.08
+Canagliflozin hemihydrate,0,Unknown,Unknown,907.0629999999998,5.111940000000006,10,8,12,211.79999999999998
+Norepinephrine hydrochloride,14,Unknown,Unknown,205.641,0.5117,2,4,4,86.71
+Furosemide,2,inhibitor/antagonist,unclear,330.7490000000001,1.8907,5,3,5,122.63000000000001
+Dorzolamide hydrochloride,14,Unknown,Unknown,360.9100000000002,1.0338000000000003,3,2,6,106.33
+Lidocaine hydrochloride,14,Unknown,Unknown,270.804,3.0055400000000017,5,1,2,32.34
+Nafamostat mesylate,14,Unknown,Unknown,539.5920000000002,1.2559700000000014,4,6,8,249.31
+Tomivosertib,8,inhibitor/antagonist,Protein synthesis inhibitor,340.38700000000006,1.6328199999999988,2,3,7,114.93
+Raltitrexed,6,inhibitor/antagonist,DNA synthesis/repair inhibitor,458.4960000000003,1.9772199999999998,9,4,7,152.69
+Dexamethasone,1,activator/agonist,Glucocorticoid receptor agonist,392.4670000000002,1.8957,2,3,5,94.83000000000001
+Procainamide hydrochloride,14,Unknown,Unknown,271.79200000000003,1.762199999999999,6,2,3,58.36
+Ixazomib citrate,2,inhibitor/antagonist,Proteasome inhibitor,517.1270000000004,1.5431,11,4,7,168.32999999999998
+Minodronic acid,14,inhibitor/antagonist,unclear,322.15000000000003,-0.12169999999999992,4,5,5,152.58999999999997
+Fulvestrant,1,inhibitor/antagonist,unclear,606.7820000000002,8.682600000000004,14,2,3,57.53
+Clotrimazole,14,inhibitor/antagonist,unclear,344.8450000000001,5.376700000000004,4,0,2,17.82
+Clobetasol propionate,1,inhibitor/antagonist,unclear,466.9770000000004,4.103100000000004,4,1,5,80.67
+Silodosin,14,inhibitor/antagonist,unclear,495.54200000000037,3.0711000000000013,13,3,6,97.05
+Glasdegib,2,inhibitor/antagonist,Sonic inhibitor,374.44800000000004,3.391580000000002,3,3,4,96.84
+Belzutifan,14,inhibitor/antagonist,unclear,383.34700000000015,3.2888800000000025,3,1,5,87.39
+Dabrafenib,17,inhibitor/antagonist,RAF inhibitor,519.5740000000004,5.364900000000003,5,2,7,110.86
+Sonidegib,2,inhibitor/antagonist,Sonic inhibitor,485.50600000000026,5.821520000000005,5,1,5,63.690000000000005
+Riluzole hydrochloride,17,inhibitor/antagonist,unclear,270.66300000000007,3.198900000000001,1,1,4,48.14
+AZD-8055,8,inhibitor/antagonist,MTOR inhibitor,465.55400000000026,2.642900000000001,5,1,9,93.07000000000001
+Hexylresorcinol,14,inhibitor/antagonist,unclear,194.27400000000003,3.220600000000002,5,2,2,40.46
+Sildenafil,2,inhibitor/antagonist,unclear,474.5870000000004,1.6108999999999998,7,1,8,113.42000000000002
+S-Adenosyl-L-methionine disulfate tosylate,0,Unknown,Unknown,766.8079999999999,-2.3286799999999914,8,9,17,389.02999999999986
+Tucidinostat,17,inhibitor/antagonist,HDAC inhibitor,390.4180000000001,3.384800000000002,6,3,4,97.11
+Tetracycline hydrochloride,4,Unknown,Unknown,480.90100000000035,0.0508000000000004,2,6,9,181.62
+PF-06260933,8,inhibitor/antagonist,Other MAPK inhibitor,296.7610000000001,3.628400000000002,2,2,4,77.82
+Baicalin,0,activator/agonist,unclear,446.36400000000026,0.14220000000000077,4,6,10,187.12
+Perindopril erbumine,14,Unknown,Unknown,441.61300000000034,2.6842000000000006,8,3,6,121.95999999999998
+Plicamycin,4,inhibitor/antagonist,unclear,1085.155999999999,-0.24927999999998085,15,11,24,358.20000000000005
+Phenytoin sodium,17,Unknown,Unknown,274.25500000000005,-2.219699999999996,2,1,3,64.52
+Lenalidomide hemihydrate,17,Unknown,Unknown,536.5450000000005,-0.7650999999999948,2,4,8,216.50000000000003
+Bimiralisib,8,inhibitor/antagonist,PI3K/AKT inhibitor,411.3880000000003,1.2078,3,1,9,102.52
+Cyclosporin A,14,inhibitor/antagonist,unclear,1202.6349999999975,3.2690000000000037,15,5,12,278.79999999999995
+Daidzin,0,inhibitor/antagonist,unclear,416.3820000000002,0.34429999999999983,4,5,9,149.82
+Idarubicin hydrochloride,4,Unknown,Unknown,533.9610000000004,1.4421,3,5,10,176.61
+Bergenin,0,unclear,unclear,328.2730000000001,-1.2005999999999986,2,5,9,145.91000000000003
+ULK-101,2,inhibitor/antagonist,unclear,460.45600000000024,5.334600000000003,5,1,5,59.290000000000006
+c-Kit-IN-1,8,inhibitor/antagonist,Multi-TK inhibitor,489.4820000000002,4.910000000000003,7,2,6,98.14000000000001
+Rutin trihydrate,0,Unknown,Unknown,664.5660000000001,-4.161199999999989,6,10,16,363.92999999999995
+RMC-6236,8,inhibitor/antagonist,RAS inhibitor,811.0659999999999,5.610300000000007,7,2,12,134.16
+Doxorubicin hydrochloride,4,Unknown,Unknown,579.9860000000004,0.4231000000000007,5,6,12,206.07
+Cabozantinib S-malate,8,Unknown,Unknown,635.6010000000001,4.447400000000004,11,5,9,193.61
+Sivelestat sodium tetrahydrate,14,Unknown,Unknown,528.5120000000002,-5.376199999999991,7,2,7,267.7
+TAK-901,2,inhibitor/antagonist,unclear,504.6560000000003,4.617540000000004,5,2,5,95.16000000000001
+Bicalutamide,2,inhibitor/antagonist,Androgen receptor antagonist,430.3790000000002,2.8795800000000016,5,2,5,107.25999999999999
+Monocrotaline,14,inhibitor/antagonist,unclear,325.3610000000001,-0.3925999999999994,0,2,7,96.3
+Crizotinib hydrochloride,13,Unknown,Unknown,486.8060000000004,5.459500000000004,5,2,6,77.99
+Mifepristone,1,inhibitor/antagonist,unclear,429.60400000000016,5.406500000000006,2,1,3,40.54
+Berbamine,3,inhibitor/antagonist,unclear,608.7350000000002,6.859400000000009,3,1,8,72.86
+Tofacitinib,2,inhibitor/antagonist,JAK/STAT inhibitor,312.37699999999995,1.5447799999999994,3,1,5,88.91
+Pimozide,14,inhibitor/antagonist,unclear,461.5560000000001,5.8570000000000055,7,1,3,41.03
+Citalopram hydrobromide,14,Unknown,Unknown,405.3110000000001,4.390880000000004,5,0,3,36.26
+Tazarotene,14,activator/agonist,Retinoic receptor agonist,351.4710000000001,4.431500000000004,2,0,4,39.19
+Lonafarnib,2,inhibitor/antagonist,RAS inhibitor,638.8320000000003,5.909900000000006,3,1,3,79.53
+Rifaximin,4,unclear,unclear,785.8909999999998,6.157840000000007,2,5,13,198.37999999999997
+Elagolix sodium,14,inhibitor/antagonist,unclear,653.5800000000005,1.2043200000000012,12,1,8,105.39000000000001
+Carbamazepine,14,inhibitor/antagonist,HDAC inhibitor,236.274,3.3872000000000018,0,1,1,46.33
+Larotrectinib sulfate,2,inhibitor/antagonist,Other TK inhibitor,526.5220000000005,2.2946999999999997,3,4,8,160.59999999999997
+Delamanid,2,inhibitor/antagonist,unclear,534.4910000000003,4.967800000000004,8,0,9,101.12
+Canagliflozin,0,inhibitor/antagonist,Glucose transporter inhibitor,444.5240000000002,2.968320000000001,5,4,6,90.15
+Ritonavir,6,inhibitor/antagonist,unclear,720.9620000000001,5.905200000000006,17,4,9,145.77999999999997
+Larotrectinib,2,inhibitor/antagonist,Other TK inhibitor,428.44300000000027,2.9475000000000016,3,2,6,86.0
+Pioglitazone,17,activator/agonist,unclear,356.4470000000001,3.159600000000002,7,1,5,68.29
+Ixazomib,2,inhibitor/antagonist,Proteasome inhibitor,361.03400000000016,1.2661000000000002,7,4,4,98.66
+Fluvoxamine,14,unclear,unclear,318.3390000000001,3.201500000000002,9,1,4,56.84
+Valdecoxib,17,inhibitor/antagonist,Cyclooxygenase inhibitor,314.36600000000004,2.9644200000000014,3,1,4,86.19
+Triclosan,14,inhibitor/antagonist,unclear,289.5450000000001,5.144700000000002,2,1,2,29.46
+8-Hydroxyquinoline,14,unclear,unclear,145.16099999999997,1.9403999999999997,0,1,2,33.120000000000005
+Ropivacaine hydrochloride monohydrate,2,Unknown,Unknown,328.884,3.1035400000000015,4,1,2,63.84
+Sapanisertib,8,inhibitor/antagonist,MTOR inhibitor,309.3330000000001,2.3798000000000004,2,2,8,121.67
+Vinblastine sulfate,10,Unknown,Unknown,909.0679999999993,3.338100000000006,7,5,14,228.7
+Amsacrine,17,inhibitor/antagonist,DNA synthesis/repair inhibitor,393.4680000000001,4.511700000000003,5,2,5,80.32000000000001
+Radotinib,7,inhibitor/antagonist,Other TK inhibitor,530.5140000000004,5.750840000000005,6,2,8,110.51
+Pralsetinib,8,inhibitor/antagonist,Other TK inhibitor,533.6120000000003,4.200140000000002,8,3,9,135.53000000000003
+Flutamide,2,inhibitor/antagonist,Androgen receptor antagonist,276.214,3.2081000000000017,3,1,3,72.24
+Osimertinib mesylate,12,Unknown,Unknown,595.7260000000002,4.0138000000000025,10,3,10,141.92000000000002
+Olanzapine,17,inhibitor/antagonist,unclear,312.442,3.4392200000000024,0,1,5,30.869999999999997
+Benproperine phosphate,14,Unknown,Unknown,407.44700000000006,3.602000000000003,6,3,3,90.23
+Vemurafenib,17,inhibitor/antagonist,RAF inhibitor,489.9310000000003,5.544200000000004,7,2,4,91.92
+Niclosamide olamine,2,Unknown,Unknown,388.20700000000016,2.796900000000001,4,4,6,138.72000000000003
+Tubulin inhibitor 6,14,inhibitor/antagonist,Microtubule inhibitor,367.8570000000001,5.791700000000004,2,0,3,29.54
+Simotinib,5,inhibitor/antagonist,EGFR/ERBB inhibitor,500.95800000000037,4.392200000000003,7,1,8,77.97
+Tirabrutinib hydrochloride,2,Unknown,Unknown,490.95100000000025,3.175200000000001,4,1,8,108.27000000000001
+Anastrozole,14,inhibitor/antagonist,unclear,293.37399999999997,2.9287600000000014,4,0,5,78.29
+Ataluren,14,inhibitor/antagonist,unclear,284.24600000000004,3.240900000000001,3,1,4,76.22
